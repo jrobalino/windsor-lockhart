@@ -1,7 +1,6 @@
 baseURL       = "https://windsorlockhart.com/"
 languageCode  = "en-us"
 title         = "The Windsor Plaza at Lockhart, TX"
-theme         = "roxo-hugo"
 summarylength = 25
 
 # Site Menus
