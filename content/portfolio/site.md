@@ -21,7 +21,7 @@ The site is a few minutes from the Lockhart Town Square, which sits east of the 
 <p style="text-align: center;"><a href="/images/projects/business-map.png" target="_blank">View full size</a></p>
 {{< /rawhtml >}}
 
-With the construction of Texas tollway SH-130 connecting Austin and San Antonio, developers have rushed to build homes in the western part of Lockhart. This presents an attractive opportunity for commercial tenants and investors to fill the voids that exist in the western side of the city in order to serve the new residents of the major residential projects, as well as commuters between Austin and San Antonio.
+With the construction of Texas tollway SH-130 connecting Austin and San Antonio, developers have rushed to build homes in the western part of Lockhart. **This presents an attractive opportunity for commercial tenants and investors to fill the voids that exist in the western side of the city in order to serve the new residents of the major residential projects, as well as commuters between Austin and San Antonio.**
 
 
 ### Neighborhood - Residential
