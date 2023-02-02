@@ -71,7 +71,7 @@ Lockhart's historic downtown is a significant part of the city's cultural herita
 {{< /rawhtml >}}
 
 
-In recent years, Lockhart's downtown has undergone a revitalization, and it has become a popular destination for locals and visitors alike. The downtown area now features a mix of shops, restaurants, and bars, as well as events and festivals that draw people from the surrounding areas. **First Fridays** in Lockhart attract visitors from Austin and San Antonio the first Friday of each month, who are attracted by the artisan shops, small town vibes, and new restaurants and bars.
+In recent years, Lockhart's downtown has undergone a revitalization, and it has become a popular destination for locals and visitors alike. The downtown area now features a mix of shops, restaurants, and bars, as well as events and festivals that draw people from the surrounding areas. **First Fridays** in Lockhart attract visitors from Austin and San Antonio the first Friday of each month, who enjoy exploring the artisan shops, small town vibes, and new restaurants and bars.
 
 {{< rawhtml >}}
 <img src="/images/projects/lockhart-mural.jpg" alt="site" width="100%" />
