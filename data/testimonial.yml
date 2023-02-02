@@ -1,0 +1,39 @@
+enable  : true
+title   : "COMMITMENTS"
+subtitle: "Join with trusted businesses."
+testimonial_item :
+  - thumb : "images/commitments/vre.png"
+    name  : "Vision Real Estate"
+    company_position: "Brokerage"
+    quote : > 
+            "We are committed to adding value to the city of Lockhart." 
+
+  - thumb : "images/commitments/client-logo-seven.png"
+    name  : "Coming Soon"
+    company_position: "Open Opportunity"
+    quote : > 
+            "Talk to us today about investing in Lockhart." 
+
+  - thumb : "images/commitments/client-logo-seven.png"
+    name  : "Coming Soon"
+    company_position: "Open Opportunity"
+    quote : > 
+            "Talk to us today about investing in Lockhart." 
+
+  - thumb : "images/commitments/client-logo-seven.png"
+    name  : "Coming Soon"
+    company_position: "Open Opportunity"
+    quote : > 
+            "Talk to us today about investing in Lockhart."  
+
+  - thumb : "images/commitments/client-logo-seven.png"
+    name  : "Coming Soon"
+    company_position: "Open Opportunity"
+    quote : > 
+            "Talk to us today about investing in Lockhart." 
+
+  - thumb : "images/commitments/client-logo-seven.png"
+    name  : "Coming Soon"
+    company_position: "Open Opportunity"
+    quote : > 
+            "Talk to us today about investing in Lockhart."  

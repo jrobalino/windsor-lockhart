@@ -1,0 +1,14 @@
+enable : true
+heading : "AT A GLANCE"
+counter_item: 
+  - title: "Lot Acreage"
+    number: "6"
+
+  - title: "Adjacent Homes"
+    number: "150+"
+
+  - title: "Vehicle Traffic"
+    number: "16,000+"
+
+  - title: "Population"
+    number: "15,000+"

@@ -1,0 +1,34 @@
+enable  : true
+title   : Meet the team
+members  :
+  - image       : images/team/rene.jpg
+    name        : RENE
+    designation : Project Leader
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    bio         : Rene Garcia, Jr. is a highly successful real estate professional with over 25 years of experience in the industry. He has a proven track record of success, having sold over 65 million dollars of real estate throughout his career. Rene's extensive knowledge of the real estate market has earned him a reputation as one of the top real estate agents in the industry. He has a deep understanding of the local market, a strong network of contacts, and an ability to navigate even the most complex transactions with ease. Rene's passion for real estate and his commitment to his clients have earned him numerous awards and accolades throughout his career, and he continues to be a leader in the industry today. 
+
+  - image       : images/team/javier.png
+    name        : JAVIER
+    designation : Operations Manager
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    bio         : Javier Robalino is a tech industry veteran who currently leads the Developer Relations program at Front, a unicorn startup valued at $1.7 billion. He builds teams and strategies that help companies successfully launch new app ecosystems that scale to thousands of developers. Before joining the tech industry, Javier worked as a mechanical engineer in the oil and gas industry, where he managed the technical and financial aspects of multi-million dollar projects and multi-billion dollar joint ventures across the globe. 
+
+  - image       : images/team/jarred.jpg
+    name        : JARRED
+    designation : Financial Compliance
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    bio         : Jarred Barfield is a Director of Compliance for a technology company. He has over a decade of experience within the financial compliance field, and has worked alongside some of the largest financial institutions within the United States. His unique skill sets within the technology and financial space has allowed him to flourish within the real estate industry by introducing creative solutions to complex problems.
+
+  - image       : images/team/justin.jpg
+    name        : JUSTIN
+    designation : Project Manager
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    bio         : Graduate of Baylor University (BA) and St. Mary's University (MA), Justin Garcia has managed Vision Real Estate since 2016 to include marketing, accounting, and acquisition. Throughout his academic career, Justin demonstrated an aptitude for both literature and business. He excelled in his English literature courses, earning high grades and participating in several literary groups on campus. He also demonstrated strong analytical and critical thinking skills, which he applied to his business acument. In addition to his academic achievements, Justin also has a strong work ethic and a desire to succeed. 
