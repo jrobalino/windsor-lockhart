@@ -115,5 +115,5 @@ summarylength = 25
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help investors:"
+        title       = "We help investors: "
         description = "develop sustainable land<br>build community<br>create new experiences"
