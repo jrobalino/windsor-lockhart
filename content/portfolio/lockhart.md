@@ -80,7 +80,7 @@ In recent years, Lockhart's downtown has undergone a revitalization, and it has 
 
 ### BBQ
 
-The city has long been a major BBQ destination and the capital of Texas BBQ, with a variety of restaurants that originated the style and have been in business for decades. **The statewide Texas Monthly BBQ Festival, long held in Austin, was held in Lockhart in 2022.**
+The city has long been a major BBQ destination and the capital of Texas BBQ, with a variety of restaurants that originated the style and have been in business for nearly a century. **The statewide Texas Monthly BBQ Festival, long held in Austin, was held in Lockhart in 2022.**
 
 {{< rawhtml >}}<a href="https://www.texasmonthly.com/event/2022-tm-bbq-fest-lockhart/" target="_blank">Texas Monthly BBQ Festival in Lockhart</a><p></p>{{< /rawhtml >}}
 
