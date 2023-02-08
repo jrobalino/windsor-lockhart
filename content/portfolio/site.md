@@ -6,6 +6,11 @@ image: "images/projects/sh130.jpg"
 category: ["LAND"]
 ---
 
+{{< rawhtml >}}
+<img src="/images/projects/blue-overview.png" alt="site" width="100%" />
+<p style="text-align: center;"><a href="/images/projects/blue-overview.png" target="_blank">View full size</a></p>
+{{< /rawhtml >}}
+
 This 6-acre opportunity is located near the intersection of W San Antonio St (TX-142), Lockhart's primary east-west street, and SH-130 (a major Texas tollway connecting Austin and San Antonio). The location is billed as the **Entrance to Lockhart** in the city's development plan.
 
 {{< rawhtml >}}<p><a href="https://goo.gl/maps/bdXvtTDR5aHAXcKq9" target="_blank">View in Google Maps</a></p>{{< /rawhtml >}}
@@ -25,7 +30,7 @@ With the construction of Texas tollway SH-130 connecting Austin and San Antonio,
 
 
 ### Neighborhood - Residential
-The site is immediately surrounded by several residential developments totaling hundreds of new homes and hundreds of new midrise apartment units, including {{< rawhtml >}}<a href="https://www.kbhome.com/new-homes-austin/centerpoint-meadows" target="_blank">30 acres of new development from KB homes</a>{{< /rawhtml >}} and {{< rawhtml >}}<a href="https://presarioventures.com/portfolio_page/the-stanton/" target="_blank">the Stanton</a>{{< /rawhtml >}}, a 140-unit apartment complex. The site juts up directly against a new housing development, as you can see in the following image.
+The site is immediately surrounded by several residential developments totaling hundreds of new homes and hundreds of new midrise apartment units, including {{< rawhtml >}}<a href="https://www.kbhome.com/new-homes-austin/centerpoint-meadows" target="_blank">30 acres of new development from KB homes</a>{{< /rawhtml >}}, a similar {{< rawhtml >}}<a href="https://www.drhorton.com/texas/san-marcos/lockhart/vintage-springs" target="_blank">development from DR Horton</a>{{< /rawhtml >}}, and {{< rawhtml >}}<a href="https://presarioventures.com/portfolio_page/the-stanton/" target="_blank">the Stanton</a>{{< /rawhtml >}}, a 140-unit apartment complex. The site juts up directly against a new housing development, as you can see in the following image.
 
 {{< rawhtml >}}
 <img src="/images/projects/site1.png" alt="site" width="100%" />
