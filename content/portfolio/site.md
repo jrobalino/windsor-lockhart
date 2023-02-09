@@ -18,7 +18,7 @@ This 6-acre opportunity is located near the intersection of W San Antonio St (TX
 #### Download Plat
 {{< rawhtml >}}<p><a href="/files/plat.pdf" target="_blank">The Windsor Plaza at Lockhart, TX Plat</a></p>{{< /rawhtml >}}
 
-### Neighborhood - Commercial
+### Neighborhood - Overview
 The site is a few minutes from the Lockhart Town Square, which sits east of the site and is where most businesses have historically been developed along Highway 183, including Texas grocery giant HEB, Walmart, and health centers.
 
 {{< rawhtml >}}
@@ -29,7 +29,7 @@ The site is a few minutes from the Lockhart Town Square, which sits east of the 
 With the construction of Texas tollway SH-130 connecting Austin and San Antonio, developers have rushed to build homes in the western part of Lockhart. **This presents an attractive opportunity for commercial tenants and investors to fill the voids that exist in the western side of the city in order to serve the new residents of the major residential projects, as well as commuters between Austin and San Antonio.**
 
 
-### Neighborhood - Residential
+### Neighborhood - Immediate Residential Proximity
 The site is immediately surrounded by several residential developments totaling hundreds of new homes and hundreds of new midrise apartment units, including {{< rawhtml >}}<a href="https://www.kbhome.com/new-homes-austin/centerpoint-meadows" target="_blank">30 acres of new development from KB homes</a>{{< /rawhtml >}}, a similar {{< rawhtml >}}<a href="https://www.drhorton.com/texas/san-marcos/lockhart/vintage-springs" target="_blank">development from DR Horton</a>{{< /rawhtml >}}, and {{< rawhtml >}}<a href="https://presarioventures.com/portfolio_page/the-stanton/" target="_blank">the Stanton</a>{{< /rawhtml >}}, a 140-unit apartment complex. The site juts up directly against a new housing development, as you can see in the following image.
 
 {{< rawhtml >}}
