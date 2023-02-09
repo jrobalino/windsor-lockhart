@@ -11,7 +11,7 @@ category: ["LAND"]
 <p style="text-align: center;"><a href="/images/projects/blue-overview.png" target="_blank">View full size</a></p>
 {{< /rawhtml >}}
 
-This 6-acre opportunity is located near the intersection of W San Antonio St (TX-142), Lockhart's primary east-west street, and SH-130 (a major Texas tollway connecting Austin and San Antonio). The location is billed as the **Entrance to Lockhart** in the city's development plan.
+This 6-acre opportunity is located near the intersection of W San Antonio St (TX-142), Lockhart's primary east-west street, and SH-130 (a major Texas tollway connecting Austin and San Antonio). The site boasts 800 ft of frontage and two curb cuts. The location is billed as the **Entrance to Lockhart** in the city's development plan.
 
 {{< rawhtml >}}<p><a href="https://goo.gl/maps/bdXvtTDR5aHAXcKq9" target="_blank">View in Google Maps</a></p>{{< /rawhtml >}}
 
