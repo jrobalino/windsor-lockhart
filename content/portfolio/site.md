@@ -22,8 +22,8 @@ This 6-acre opportunity is located near the intersection of W San Antonio St (TX
 The site is a few minutes from the Lockhart Town Square, which sits east of the site and is where most businesses have historically been developed along Highway 183, including Texas grocery giant HEB, Walmart, and health centers.
 
 {{< rawhtml >}}
-<img src="/images/projects/business-map.png" alt="site" width="100%" />
-<p style="text-align: center;"><a href="/images/projects/business-map.png" target="_blank">View full size</a></p>
+<img src="/images/projects/business-map-residential.png" alt="site" width="100%" />
+<p style="text-align: center;"><a href="/images/projects/business-map-residential.png" target="_blank">View full size</a></p>
 {{< /rawhtml >}}
 
 With the construction of Texas tollway SH-130 connecting Austin and San Antonio, developers have rushed to build homes in the western part of Lockhart. **This presents an attractive opportunity for commercial tenants and investors to fill the voids that exist in the western side of the city in order to serve the new residents of the major residential projects, as well as commuters between Austin and San Antonio.**
