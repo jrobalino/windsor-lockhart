@@ -12,7 +12,7 @@ Many who venture to Lockhart, TX immediately fall in love.
 
 * Growing population and job market
 * Strong foundation for business and economic growth.
-* Expanding median household income of $55,171 generating strong demand for more commercial services and retail outlets in the area.
+* Expanding median household income of $57,098 generating strong demand for more commercial services and retail outlets in the area.
 * Central location between Austin and San Antonio metro areas.
 * Incentives for local businesses, a thriving arts scene, and a culture that is a mix of small town friendliness and big city energy.
 
@@ -34,7 +34,7 @@ Learn more via the {{< rawhtml >}}<a href="https://lockhartedc.com/" target="_bl
   </tr>
   <tr>
     <td>Median Household Income</td>
-    <td>$55,171</td>
+    <td>$57,098</td>
   </tr>
   <tr>
     <td>% of Population with Bachelor's Degree or Higher</td>
@@ -43,13 +43,15 @@ Learn more via the {{< rawhtml >}}<a href="https://lockhartedc.com/" target="_bl
 </table>
 {{< /rawhtml >}}. 
 
+View the {{< rawhtml >}}<a href="https://lockhart.nyc3.digitaloceanspaces.com/downloads/LockhartTX_RTA_Demos_2019.pdf" target="_blank">2019 Retail Trade Area Demographic Profile</a>{{< /rawhtml >}}
+
 ### A growing population with strong job growth and a driven workforce
 
-Lockhart boasts a workforce of over 2M people within a 45-mile radius. Both the population of Lockhart and the number of jobs have grown between 10-30% in recent years. Many industries are adding operational centers to the area, including {{< rawhtml >}}<a href="https://lockhartedc.com/site-selectors/film-in-lockhart" target="_blank">film studios</a>{{< /rawhtml >}}, {{< rawhtml >}}<a href="https://www.kvue.com/article/money/economy/boomtown-2040/second-amazon-warehouse-planned-for-san-marcos/269-5d1af7c1-958f-4d28-84e0-2d5a31b226a1" target="_blank">Amazon</a>{{< /rawhtml >}}, and {{< rawhtml >}}<a href="https://lockhartedc.com/advantages/success-stories" target="_blank">other employers who have found success in Lockhart</a>{{< /rawhtml >}}. 
+Lockhart boasts a workforce of over 2M people within a 45-mile radius. Both the population of Lockhart and the number of jobs have grown between 10-30% in recent years. The Garner Economics Study projects the Lockhart driving workforce to expand by 27,221 over the next five years. Many industries are adding operational centers to the area, including {{< rawhtml >}}<a href="https://lockhartedc.com/site-selectors/film-in-lockhart" target="_blank">film studios</a>{{< /rawhtml >}}, {{< rawhtml >}}<a href="https://www.kvue.com/article/money/economy/boomtown-2040/second-amazon-warehouse-planned-for-san-marcos/269-5d1af7c1-958f-4d28-84e0-2d5a31b226a1" target="_blank">Amazon</a>{{< /rawhtml >}}, and {{< rawhtml >}}<a href="https://lockhartedc.com/advantages/success-stories" target="_blank">other employers who have found success in Lockhart</a>{{< /rawhtml >}}. 
 
 ### Austin-San Antonio Metroplex
 
-Lockhart is less than 30 miles from Austin, and sits near the middle of the I-35 Austin-San Antonio corridor, which has been expanding consistently over the past several years. The Austin MSA and San Antonio MSA boast close to **5 million residents**.
+Lockhart is less than 30 miles from Austin, and sits near the middle of the I-35 Austin-San Antonio corridor, which has been expanding consistently over the past several years. The Austin MSA and San Antonio MSA boast close to **5 million residents**. {{< rawhtml >}}<a href="https://lockhartedc.com/advantages/success-stories/fashion-glass-and-mirror" target="_blank">Businesses are choosing Lockhart</a>{{< /rawhtml >}} because of its superior deliverability of goods to Austin and San Antonio along the SH-130 corridor, which is less congested than I-35. The SH-130 entrance to Lockhart is exactly where this project site sits.
 
 {{< rawhtml >}}
 <img src="/images/projects/metroplex.png" alt="site" width="100%" />

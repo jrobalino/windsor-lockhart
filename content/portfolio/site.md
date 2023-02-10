@@ -13,10 +13,14 @@ category: ["LAND"]
 
 This 6-acre opportunity is located near the intersection of W San Antonio St (TX-142), Lockhart's primary east-west street, and SH-130 (a major Texas tollway connecting Austin and San Antonio). The site boasts 800 ft of frontage and two curb cuts. The location is billed as the **Entrance to Lockhart** in the city's development plan.
 
+#### Google Maps
 {{< rawhtml >}}<p><a href="https://goo.gl/maps/bdXvtTDR5aHAXcKq9" target="_blank">View in Google Maps</a></p>{{< /rawhtml >}}
 
 #### Download Plat
 {{< rawhtml >}}<p><a href="/files/plat.pdf" target="_blank">The Windsor Plaza at Lockhart, TX Plat</a></p>{{< /rawhtml >}}
+
+#### View Retail Offering
+{{< rawhtml >}}<p><a href="/files/retail-om.pdf" target="_blank">Offering Memorandum</a></p>{{< /rawhtml >}}
 
 ### Neighborhood - Overview
 The site is a few minutes from the Lockhart Town Square, which sits east of the site and is where most businesses have historically been developed along Highway 183, including Texas grocery giant HEB, Walmart, and health centers.
