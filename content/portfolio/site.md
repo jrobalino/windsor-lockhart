@@ -64,7 +64,7 @@ Windsor Plaza is broken into sections: West Plaza (4 acres) and East Plaza (2 ac
 <p style="text-align: center;"><a href="/images/projects/site3.png" target="_blank">View full size</a></p>
 {{< /rawhtml >}}
 
-#### Drive-Thru Restaurant/Bank/Professional Services
+#### Urgent Care/Drive-Thru Restaurant/Bank/Professional Services
 
  Above is an approximate footprint of the West Plaza with its potential tenants.
 
@@ -74,7 +74,7 @@ Windsor Plaza is broken into sections: West Plaza (4 acres) and East Plaza (2 ac
 <p style="text-align: center;"><a href="/images/projects/site2.png" target="_blank">View full size</a></p>
 {{< /rawhtml >}}
 
-#### Pharmacy/Restaurant/Cafe/Small Grocery Store
+#### Pharmacy/Urgent Care/Restaurant/Cafe/Small Grocery Store
 
 Above is an approximate footprint of the East Plaza with its potential tenants.
 
