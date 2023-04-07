@@ -53,6 +53,11 @@ The site is immediately surrounded by several residential developments totaling 
 <p></p>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<img src="/images/projects/site-aerial.png" alt="aerial" width="100%" />
+<p style="text-align: center;"><a href="/images/projects/site-aerial.png" target="_blank">View full size</a></p>
+{{< /rawhtml >}}
+
 
 ## Land Allocation
 Windsor Plaza is broken into sections: West Plaza (4 acres) and East Plaza (2 acres).
@@ -77,6 +82,15 @@ Windsor Plaza is broken into sections: West Plaza (4 acres) and East Plaza (2 ac
 #### Pharmacy/Urgent Care/Restaurant/Cafe/Small Grocery Store
 
 Above is an approximate footprint of the East Plaza with its potential tenants.
+
+## Lot Photos
+{{< rawhtml >}}
+<img src="/images/projects/drone.png" alt="drone view" width="100%" />
+<p style="text-align: center;"><a href="/images/projects/drone.png" target="_blank">View full size</a></p>
+<img src="/images/projects/gas-drone.png" alt="gasoline station" width="100%" />
+<p style="text-align: center;"><a href="/images/projects/gas-drone.png" target="_blank">View full size</a></p>
+{{< /rawhtml >}}
+
 
 ## Investors & Tenants
 
